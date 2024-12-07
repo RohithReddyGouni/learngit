@@ -1,0 +1,11 @@
+This is a text file for the macfeature branch.
+Line 1: Understanding Git branches.
+Line 2: Learning to manage feature branches.
+Line 3: Making changes on macfeature.
+Line 4: These lines will help understand Git.
+Line 5: Remember to commit your changes.
+Line 6: Push your changes to the remote.
+Line 7: Switch to windowsfeature on the Windows laptop.
+Line 8: Pull changes if necessary.
+Line 9: Work on windowsfeature branch next.
+Line 10: Merge macfeature and windowsfeature later.
